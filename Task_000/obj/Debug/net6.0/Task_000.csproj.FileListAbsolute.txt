@@ -1,0 +1,15 @@
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.csproj.AssemblyReference.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.AssemblyInfoInputs.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.AssemblyInfo.cs
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.csproj.CoreCompileInputs.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/bin/Debug/net6.0/Task_000
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/bin/Debug/net6.0/Task_000.deps.json
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/bin/Debug/net6.0/Task_000.runtimeconfig.json
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/bin/Debug/net6.0/Task_000.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/bin/Debug/net6.0/Task_000.pdb
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/refint/Task_000.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.pdb
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/Task_000.genruntimeconfig.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Total Work/Task_000/obj/Debug/net6.0/ref/Task_000.dll
